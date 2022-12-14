@@ -1,0 +1,24 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "A repo to note somthing useful.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayheaven/Note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayheaven/Note/issues"
+  },
+  "homepage": "https://github.com/sanjayheaven/Note#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
